@@ -161,7 +161,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>2/27/2025
 		</td>
 		<td>
-			<a href="./slides/7-Timing-clocking.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
+			<a href="./slides/7-8-Coordination.pdf">Lecture Slides </a> and <a href="https://youtu.be/IAI712Kk-O8">Video</a>
 		</td>
 	</tr>
 	<tr>
@@ -178,7 +178,7 @@ All deadlines are 11:59PM Eastern Time
 			<br>3/06/2025
 		</td>
 		<td>
-			<a href="./slides/8-Coordination.pdf">Lecture Slides </a>
+			<a href="./slides/7-8-Coordination.pdf">Lecture Slides </a>
 		</td>
 	</tr>
 	<tr>
